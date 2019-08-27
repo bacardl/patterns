@@ -35,5 +35,4 @@ public class PizzaTest {
         assertArrayEquals(calzoneToppings.toArray(), calzonePizza.getToppings().toArray());
     }
 
-
 }
