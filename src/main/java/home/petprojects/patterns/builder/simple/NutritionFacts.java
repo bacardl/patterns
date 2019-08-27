@@ -1,4 +1,4 @@
-package java.home.petprojects.patterns.builder.simple;
+package home.petprojects.patterns.builder.simple;
 
 // builder
 public class NutritionFacts {
