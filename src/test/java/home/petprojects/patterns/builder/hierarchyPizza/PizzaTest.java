@@ -1,4 +1,4 @@
-package home.petprojects.patterns.builder.hierarchy;
+package home.petprojects.patterns.builder.hierarchyPizza;
 
 import org.junit.Test;
 
